@@ -6,10 +6,6 @@
 3. luego dara una vista previa de el codigo ya formateado
 4. se da guardar y se selecciona el tipo de archivo para gusrdar HTML,CSS,JS o Sobreescribir el archivo original.
 
-   <span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png</span><span>)</span>
-
-
-
 
 # PARA CREAR EL INSTALADOR DESDE EL CODIGO PYTHON
 
